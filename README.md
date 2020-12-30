@@ -1,6 +1,6 @@
 # Project Name
 
-![Thumbs Up](thumbsup.png =250x250)
+<img src="thumbsup.png" alt="Thumbs Up!" width="250" height="250" align="centre"/>
 
 > Image description / subtitle.
 
