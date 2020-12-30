@@ -1,6 +1,6 @@
 # Project Name
 
-<img src="thumbsup.png" alt="Thumbs Up!" width="250" height="250" align="centre"/>
+<img src="thumbsup.png" alt="Thumbs Up!" width="250" height="250" align="center"/>
 
 > Image description / subtitle.
 
