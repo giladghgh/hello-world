@@ -1,6 +1,6 @@
 # Project Name
 
-![Project Image](project-image-url)
+[Thumbs Up](media/thumbsup.png)
 
 > Image description / subtitle.
 
