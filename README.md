@@ -1,6 +1,6 @@
 # Project Name
 
-![Thumbs Up](thumbsup.png)
+![Thumbs Up](thumbsup.png =250x250)
 
 > Image description / subtitle.
 
