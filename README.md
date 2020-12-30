@@ -23,10 +23,7 @@ Medium-length description of the project, possibly but not necessarily including
 
 ## Briefing
 
-#### Installation
-
-If applicable and unsimplified, state key instructions and information regarding the download of this project.
-
+If needs be, state key instructions and information regarding the download of this project.
 
 #### Dependencies
 
@@ -35,26 +32,19 @@ You will need to run the following commands as part of the installation (setup.p
 - `pip install x`
 - `pip install y`
 
-
 #### Interface
 
 Interacting with my program looks like this:
 
-```html
-    <p>dummy code</p>
+```python
+from geopy.geocoder import Nominatim
 ```
-[Back To The Top](#project-name)
-
----
-
-## References
-
-[Back To The Top](#project-name)
-
 ---
 
 ## License
 
-[License details here](LICENSE.md).
+[Everything here is completely unlincensed](LICENSE.md).
+
+---
 
 [Back To The Top](#project-name)
