@@ -32,8 +32,8 @@ If applicable and unsimplified, state key instructions and information regarding
 
 You will need to run the following commands as part of the installation (setup.py does this):
 
-- `pip install nltk`
-- `pip install geopy`
+- `pip install x`
+- `pip install y`
 
 
 #### Interface
