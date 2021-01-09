@@ -10,7 +10,7 @@
 ### Table of Contents
 
 - [Overview](#overview)
-- [Briefing](#how-to-use)
+- [Briefing](#briefing)
 - [License](#license)
 
 ---
