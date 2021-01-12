@@ -25,15 +25,15 @@ Medium-length description of the project, possibly but not necessarily including
 
 If needs be, state key instructions and information regarding the download of this project.
 
-#### Dependencies
 
+#### Dependencies
 You will need to run the following commands as part of the installation (setup.py does this):
 
 - `pip install x`
 - `pip install y`
 
-#### Interface
 
+#### Interface
 Interacting with my program looks like this:
 
 ```python
@@ -43,7 +43,7 @@ from geopy.geocoder import Nominatim
 
 ## License
 
-[Everything here is completely unlincensed](LICENSE).
+Everything here is wholly [unlincensed](LICENSE).
 
 ---
 
