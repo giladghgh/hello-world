@@ -43,7 +43,7 @@ from geopy.geocoder import Nominatim
 
 ## License
 
-Everything here is wholly [unlincensed](LICENSE).
+Everything here is [unlincensed](LICENSE).
 
 ---
 
